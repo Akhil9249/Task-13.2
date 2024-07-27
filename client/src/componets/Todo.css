@@ -1,0 +1,15 @@
+.todo-main-container{
+    width: 524px;
+    height: 639px;
+    background: linear-gradient(0deg, #152431, #152431),
+    conic-gradient(from 180deg at 50% 50%, #8FA8C1 0deg, rgba(143, 168, 193, 0) 360deg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 5px;   
+}
+
+.todo-main-container .head-section{
+    margin: 20px;
+}

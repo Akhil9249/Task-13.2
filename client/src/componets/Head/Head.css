@@ -1,0 +1,33 @@
+.head-container{
+    width: 484px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head-container input{
+    width: 297px;
+    height: 40px;
+    /* border-radius: 5px; */
+    color: #8FA8C1;
+    border: none;
+    outline: none;
+    border: 1px solid white;
+    background-color: transparent
+}
+.head-container button{
+    width: 95px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: none;
+    background-color: #0C5488;
+    cursor: pointer;
+}
+.head-section{
+    font: Roboto;
+    font-weight: 700px;
+    font-size: 36px;
+    line-height: 42.19px;
+    color: #8FA8C1;
+}
